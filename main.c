@@ -13,7 +13,7 @@ int main()
 
 	while (1)
 	{
-		//init();
+		
 		char buf[100] = { 0, };
 		printf("$ ");
 		scanf("%s", buf);

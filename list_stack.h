@@ -1,6 +1,6 @@
 #pragma once
-#ifndef STACK_H
-#define LIST_STACK_H
+#ifndef LIST_STACK_H
+#define STACK_H
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdlib.h>
 #include <stdio.h>
